@@ -1,0 +1,28 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e1ec40;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+#score {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#banana {
+    cursor: pointer;
+    width: 100px;
+    height: auto;
+}
+
+
